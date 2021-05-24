@@ -1,0 +1,8 @@
+app-config:
+  userDefaultCreditScore: 100
+  tournamentsTeamSize: 11
+  captainMultiplicativeValue: 2
+  viceCaptainMultiplicativeValue: 1.5
+  simplePlayerCreditScore: 7
+  mediumPlayerCreditScore: 9
+  advancePlayerCreditScore: 10
